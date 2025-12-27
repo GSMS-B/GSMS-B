@@ -31,7 +31,7 @@ Private ephemeral messaging app. No sign-up, no login, no database storage. Mess
 ## 🛠️ Tech Stack
 
 **Languages:** Python 🐍  
-**AI/ML:** Google Gemini API, LangChain, Multi-Agent Systems, RAG (ChromaDB, Sentence Transformers), NLP  
+**AI/ML:** LLMs, LangChain, Multi-Agent Systems, RAG (ChromaDB, Sentence Transformers), NLP  
 **Finance:** NewsAPI, Financial Data APIs, Sentiment Analysis, Portfolio Optimization (Modern Portfolio Theory, Sharpe Ratio, Risk-Return Analysis), Contrarian Investing Strategies, Technical & Fundamental Analysis  
 **Tools:** FastAPI, Anthropic's Claude, GitHub Copilot, Stitch AI, Antigravity
 
