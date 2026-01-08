@@ -9,7 +9,7 @@ I'm a developer passionate about leveraging **AI** 🤖 and modern technologies 
 My approach? **Ship fast, iterate faster.** I believe in building products that users actually need, not just technology for technology's sake.
 
 ### 💡 My Philosophy
-> "**AI handles the typing, I handle the thinking.**"
+> "**AI handles the typing and syntax, I handle the thinking and logic.**"
 
 I don't write code line by line. I architect solutions and design user experiences. AI tools like **Anthropic's Claude**, **GitHub Copilot**, and **Antigravity** generate the code, while **Stitch AI** handles the design. This lets me focus on what truly matters: **solving problems, building great products, and creating meaningful user experiences**.
 
