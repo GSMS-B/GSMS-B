@@ -8,9 +8,6 @@
 Don't just read about the code—experience it. I've built an immersive, interactive portal to showcase these systems in action.
 
 🚀 **[Launch Interactive Portfolio (Vercel)](https://gsms-b.vercel.app/)** (Live Demo of GSMS_B repository)
-
-						**Or**
-
 📂 **[Launch Portfolio (GitHub Pages)](https://gsms-b.github.io/GSMS_B/)** (Live Demo of GSMS_B repository)
 
 ---
